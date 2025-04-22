@@ -1,3 +1,5 @@
 public class demo {
-    pri
+    abstract
+    print.ln
 }
+
